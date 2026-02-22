@@ -1,5 +1,5 @@
 # Hotel-RnR-Mods
-Mods for Hotel RnR (WIP)
+Mods for Hotel RnR (WIP) **ONLY PC**
 
 # Features:
 -Noclip
